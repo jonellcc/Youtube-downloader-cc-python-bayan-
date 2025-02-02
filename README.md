@@ -8,7 +8,7 @@
     and export as Netscape and put the **cookies.txt** as your signed in <h>
 # Parameters Endpoint 
 
-<h> This api endpoint this repo to request *ytdl?url=youtube yt here&type=mp3 or mp4
+<h> This api endpoint this repo to request **ytdl?url=youtube yt here&type=mp3 or mp4**
 
 **url**: this your YouTube link 
 **type**: type of media available mp3 and mp4. mp3 for music only and mp4 for audio with video
