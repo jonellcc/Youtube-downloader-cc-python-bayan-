@@ -34,4 +34,4 @@
 - Chatbot Community
 - You
 
-**END OG PAGE**
+**END OF PAGE**
