@@ -4,7 +4,7 @@
 
  # Cookies Netscape Youtube
    <h> This need because to prevent blocked by youtube as an bot so you need add cookies netscape form 
-    and must be your account youtube must logined in kiwi browser or other browser supported the exetension called cookies editor
+    and must be your account youtube will be logined in kiwi browser or other browser supported the exetension called cookies editor
     and export as Netscape and put the **cookies.txt** as your signed in <h>
 # Parameters Endpoint 
 
